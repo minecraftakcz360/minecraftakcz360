@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm minecraftakcz360</h1>
 <p>- 🌱 I’m currently learning JavaScript and Java </p>
-
-
+</br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minecraftakcz360&show_icons=true&theme=dark&locale=en" alt="minecraftakcz360" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
